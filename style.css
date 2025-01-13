@@ -1,0 +1,237 @@
+.step1 {
+    color: rgb(184, 195, 204);
+    background-image: url("main.jpg");
+    font-family: monospace;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.heading {
+    margin-left: 700px;
+    font-size: 50px;
+    text-shadow: 1px 0px 3px;
+    font-family: system-ui, -apple-system,
+        BlinkMacSystemFont,
+        'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+        'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-weight: lighter;
+    transition: transform 1s;
+}
+
+.heading:hover {
+    transform: translateY(30%);
+    color: burlywood;
+}
+
+.step2 {
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: rgb(53, 52, 52);
+    background-image: url("main.jpg");
+    border-style: solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: rgb(184, 195, 204);
+    font-family: monospace;
+}
+
+.step2_1 {
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-left: 0px;
+    border-right: 0px;
+    border-color: black;
+    
+    font-family: monospace;
+}
+
+.step3_1 {
+    text-decoration: none;
+    color: rgb(184, 195, 204);
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3 {
+    text-decoration: none;
+    color: rgb(184, 195, 204);
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_2 {
+    text-decoration: none;
+    color: rgb(184, 195, 204);
+    margin-left: 780px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_3 {
+    text-decoration: none;
+    color: rgb(184, 195, 204);
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_1:hover,
+.step3:hover,
+.step3_2:hover,
+.step3_3:hover {
+    color: burlywood;
+}
+
+.step3_9 {
+    text-decoration: none;
+    color:  black;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_8 {
+    text-decoration: none;
+    color:  black;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_7 {
+    text-decoration: none;
+    color:  black;
+    margin-left: 850px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_6 {
+    text-decoration: none;
+    color: black;
+    margin-left: 50px;
+    font-size: 25px;
+    font-weight: 100;
+    font-family: monospace;
+}
+
+.step3_9:hover,
+.step3_8:hover,
+.step3_7:hover,
+.step3_6:hover {
+    color: burlywood;
+}
+
+/* start image 1*/
+.bitcoin,.dogecoin,.shiba,.etherreum,.TRON,.XRP,.cardano,.binance{
+    margin-top: 50px;
+    margin-left: 50px;
+    border-style:solid;
+    border-radius: 6px;
+    color: rgb(16, 45, 46);
+    background-image: url(main.jpg);
+    display:inline-block;
+    box-shadow: 1px 2px 5px;
+    transition: transform 0.5s;
+}
+.bitcoin:hover,.dogecoin:hover,.shiba:hover,.etherreum:hover,.TRON:hover,.XRP:hover,.cardano:hover,.binance:hover{
+    transform: translateY(-3%);
+}
+.image1{
+    height: 250px;
+    width: 300px;
+}
+.heading2,.para1{
+    margin-left: 5px;
+    margin-top: 1px;
+}
+/* Start button */
+.button_link{
+    text-decoration: none;
+    color:black;
+    font-family: monospace;
+    font-size: large;
+}
+.button_link:hover{
+    color:blue;
+}
+
+button{
+    background-color:burlywood;
+    border-style: solid;
+    border-radius: 3px;
+    box-shadow: 1px 2px 5px;
+    margin-left: 110px;
+    margin-bottom: 5px;
+}
+/* End image 1 */
+
+/* start investors*/
+.step20,.step19{
+    display: inline-block;
+    margin-top: 40px;
+
+}
+
+.step28 {
+    margin-left: 35px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    color: rgb(0, 0, 0);
+    background-color:azure;
+    box-shadow: 1px 0px 5px;
+}
+.step28:hover{
+    border-color: burlywood;
+}
+
+.step21{
+    color:  rgb(84, 85, 85);
+}
+
+.step22 {
+    margin-left: 20px;
+}
+/* end investors*/
+
+
+/* start of copyright tag*/
+.step23 p {
+    display: inline-block;
+    margin-top: 100px;
+}
+
+.step24 {
+    font-size: 22px;
+    margin-left: 550px;
+}
+
+.step26 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgb(231, 231, 231);
+}
+
+.step30 {
+    color: rgb(154, 154, 154);
+}
+/* end of copyright tag*/
